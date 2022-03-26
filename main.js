@@ -40,3 +40,5 @@ console.log('There are ' + sentences + ' sentences in this story');
 console.log('There are ' + length + ' words in this story; there are ' + sentences + ' sentences in this story; and there are a number of overused words in this story: Really: ' + reallyCount  + ', Very: ' + veryCount + ', and Basically: ' + basicallyCount + '.');
 
 //There are 188 words in this story; there are 12 sentences in this story; and there are a number of overused words in this story: Really: 2, Very: 5, and Basically: 1.
+
+console.log(betterWords.join(' '));
